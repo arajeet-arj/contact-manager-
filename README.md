@@ -20,15 +20,12 @@ To build and run the program, follow these steps:
 1. Navigate to the directory containing the project files.
 1. Run the following command to compile the program:
 
-Copy code
 
-g++ -o main main.cpp Contact.cpp Services.cpp 
+      **g++ -o main main.cpp Contact.cpp Services.cpp** _
 
 4. Run the following command to execute the program:
 
-Copy code
-
-./main 
+      **./main** 
 
 **Usage**
 
